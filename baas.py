@@ -1,6 +1,6 @@
 import requests
 
-url = "https://XXXXXXXXX.backendless.app/api/data/peliculas"
+url = "https://amatoryrabbit-us.backendless.app/api/data/tbl_users"
 response = requests.get(url)
 
 print(response.json())
